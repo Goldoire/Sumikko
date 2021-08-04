@@ -1,1 +1,15 @@
-
+{
+   "title":"The Summer Vacation of These Two in the Corner",
+   "description":"This is a story about two girls who live in the corner of their class and enjoy their summer vacation. This is a short update project for the month of August. During this period, the story will progress as 'real time' = in-world time. The story will be updated only during the month of August.",
+   "author":"Niichi",
+   "cover":"https://deliver.cdn.nicomanga.jp/thumb/11746851p?1627636144",
+   "chapters":{
+      "1":{
+         "title":"Chapter 1",
+         "groups":{
+            "Kanojo Scans":"/proxy/api/imgur/chapter/hJW6klE/"
+         },
+         "last_updated":"1628031182"
+      }
+   }
+}
